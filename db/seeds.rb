@@ -21,8 +21,8 @@ puts "5 skills created"
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "My great service",
     body: "Thanks, this is awesome! Nowadays React JS is so popular on the front end, and there are even React on Rails tutorials and even Ruby gems for getting it all to work together.",
-    main_image: "http://placehold.jp/600x400",
-    thumb_image: "http://placehold.jp/350x200",
+    main_image: "http://placehold.jp/600x400.png",
+    thumb_image: "http://placehold.jp/350x200.png",
   )
 end
 
